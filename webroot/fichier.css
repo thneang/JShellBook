@@ -1,0 +1,55 @@
+﻿* 
+{color:#F3CD9E;FONT-size:15px;FONT-family:segoe print,no serial;}
+.titre
+{FONT-family: IMPACT,no serial;color:#B4C1D2;font-size: 20 px;}
+body 
+{background-color: black;margin-left:10px;margin-bottom:5px;}
+h1 
+{text-align:center;color:#F14311;}
+h2
+{color: orange;}
+h3
+{color: #F4A460; text-decoration: bold; }
+#menu
+{text-align: center;display: block;}
+#menu li
+{display: inline;}
+#menu li a 
+{color:white;text-decoration: none;border-radius: 8px;}
+#menu li a.rubrique
+{background-color:white;color: black;border: solid black 1px;}
+#menu li a:hover 
+{background-color:white;color: black;border: solid black 1px;}
+a.valider
+{position: static;float:right;}
+a.valider2
+{position: absolute; bottom: 0px;right: 0px;}
+a
+{color:#6C5EBF;}
+a:hover
+{color:#552E65; }
+.center
+{text-align: center; }
+td
+{text-align:left;}
+
+
+form
+{background-color: grey;width: 60%;margin: auto;border-radius:10px;}
+legend
+{text-decoration: bold;font-size: 21 px;}
+label
+{width: 15%;float: left;text-align: right;}
+input
+{background-color: #282828;}
+div.form
+{text-align:center;}
+textarea
+{background-color: #282828;margin-left:15%;}
+button:hover
+{color: red;}
+button
+{background-color: #181818;}
+
+iframe
+{width:540px; height:360px;}

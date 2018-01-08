@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="vert.x-3.0.0/lib"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="libs/jdk.jshell.jar"/>
+	<classpathentry kind="lib" path="libs/jdk.jshell.zip"/>
+	<classpathentry kind="lib" path="libs/parboiled-java-1.1.7.jar" sourcepath="libs/parboiled-java-1.1.7-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/thomas/TP/Projet-java/JShellBook/libs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="libs/pegdown-1.6.0.jar" sourcepath="libs/pegdown-1.6.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/home/thomas/TP/Projet-java/JShellBook/libs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/jackson-annotations-2.5.0.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/jackson-core-2.5.3.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/jackson-databind-2.5.3.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/netty-buffer-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/netty-codec-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/netty-codec-http-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/netty-common-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/netty-handler-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/netty-transport-4.0.28.Final.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/vertx-auth-common-3.0.0.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/vertx-core-3.0.0.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/vertx-mail-client-3.0.0.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/vertx-mail-service-3.0.0.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/vertx-unit-3.0.0.jar"/>
+	<classpathentry kind="lib" path="vert.x-3.0.0/lib/vertx-web-3.0.0.jar"/>
+	<classpathentry kind="lib" path="libs/parboiled-core-1.1.7.jar"/>
+	<classpathentry kind="lib" path="libs/asm-all-4.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
